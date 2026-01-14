@@ -1,39 +1,80 @@
-## Hi there! 👋
+# 👋 Hi, I'm Te Senglong
 
-# 👋 Hello, I'm Senglong 
-🎓 Computer Science Student at Western University, Phnom Penh
-💻 Passionate about Full-Stack Development and Practical Tech Solutions 
-🌐 Building bilingual tools and dashboards for
+🎓 Computer Science Student at **Western University (Phnom Penh, Cambodia)**  
+💻 Aspiring **Full-Stack Developer**  
+🚀 Passionate about building practical web applications and solving real-world problems
 
-## About Me
+---
 
-I'm a pragmatic and proactive developer focused on creating accessible tech resources. I enjoy building front-end interfaces with React and Tailwind CSS, and back-end systems using Java and MySQL. I love helping others learn through clear documentation and visual tools.
+## 📌 About Me
 
-## Skills & Technologies
+- Motivated and detail-oriented Computer Science student  
+- Strong foundation in **front-end & back-end development**  
+- Interested in **web technologies, system design, and software troubleshooting**  
+- Enjoy learning new tools and improving through real projects  
 
-html,css,react,nodejs,git,github,java
+---
 
-## Top Projects
+## 🛠️ Skills & Technologies
 
-- 🎬 [Movie Project (React + Tailwind)]
-https://movieproject-6ubk.vercel.app/
- A movie browsing app with dynamic routing and API integration. - 📘 [University System (Java + Database)
-]https://github.com/TeSenglong/University
- Backend system for managing university data.
+### 💻 Programming & Development
+- **Front-End:** React, Tailwind CSS, HTML, CSS  
+- **Back-End:** Java, Spring Boot, MySQL  
+- **Other:** Python (Basic)
 
-## GitHub Stats
+### 🔧 Tools & Workflow
+- Git & GitHub (Version Control)
+- VS Code
+- Problem Solving & Debugging
 
+---
 
+## 📂 Projects
 
+### 🎬 Movie Browsing App
+- Built using **React** and **Tailwind CSS**
+- Clean UI and responsive design
+- Focused on user experience and performance
 
-## Recent Activity
+### 🏫 University Management System (Backend)
+- Developed using **Java & MySQL**
+- Handles student and academic data
+- Designed with scalability in mind
 
-Check out my latest commits and contributions on [GitHub Activity Feed](https://github.com/TeSenglong)
+---
 
-## Latest Blog Posts
+## 📚 Education
 
-I currently do not have any blog posts to share, but I plan to document my learning journey and projects in the future.
+**Bachelor of Science in Computer Science**  
+📍 Western University – Phnom Penh, Cambodia  
+🗓️ *2024 – Expected 2028*
 
-## Connect with Me
+---
 
-- 📧 Email: hahura70@gmail.com - 📍 Location: Phnom Penh, Cambodia - 🔗 GitHub: [TeSenglong](https://github.com/TeSenglong)
+📊 Skills Chart
+React & Tailwind CSS  
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 99%
+
+Git & GitHub  
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 99%
+
+Java & Spring Boot  
+🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
+
+Python (Basic)  
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
+
+Hardware / Software Troubleshooting
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
+
+## 🌐 Connect With Me
+
+- 📧 Email: **hahura70@gmail.com**
+- 📱 Phone: **070271445**
+- 📍 Location: **Phnom Penh, Cambodia**
+- 🧑‍💻 GitHub: [github.com/TeSenglong](https://github.com/TeSenglong)
+
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+
